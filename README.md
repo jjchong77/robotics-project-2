@@ -14,7 +14,7 @@ As an example (replacing the path below with your own):
 
 ## To run:
 
-1. Download package and extract into src folder of your ros2 workspace.
+1. Download repo and copy drive_robot folder (package) into src folder of your ros2 workspace.
 2. Download simulation world file into ros2 workspace.
 3. Open 3 terminals in the workspace directory. (One for ROS2, one for GAZEBO, one for BRIDGE)
 4. Source ros into the terminals.
