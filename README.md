@@ -7,6 +7,8 @@ https://app.gazebosim.org/OpenRobotics/fuel/models/Oak%20tree
 
 Be sure to download them, extract them to a directory and source the folder to gazebo before starting the simulation. 
 As an example (replacing the path below with your own):
+
+
 ```export GZ_SIM_RESOURCE_PATH="$HOME/my-local/models"```
 
 
