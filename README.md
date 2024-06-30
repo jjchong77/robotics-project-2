@@ -11,7 +11,7 @@ Be sure to download them, extract them to a directory and source the folder to g
 As an example:
 
 
-##To run:
+## To run:
 
 1. Download package and extract into src folder of your ros2 workspace.
 2. Download simulation world file into ros2 workspace.
